@@ -15,8 +15,8 @@ dependencies:
   - blas=1.0=mkl
   - bleach=3.3.0=pyh44b312d_0
   - brotlipy=0.7.0=py38h8df0ef7_1001
-  - ca-certificates=2020.12.5=ha878542_0
-  - certifi=2020.12.5=py38h578d9bd_1
+  - ca-certificates=2021.4.13=h06a4308_1
+  - certifi=2020.12.5=py38h06a4308_0
   - cffi=1.14.5=py38h261ae71_0
   - chardet=4.0.0=py38h578d9bd_1
   - cryptography=3.4.7=py38ha5dfef3_0
